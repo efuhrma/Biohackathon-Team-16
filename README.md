@@ -29,9 +29,21 @@ How can I visualize and analyze the PPI network?  For example, how can I determi
 
 How can I find pathway and disease enrichment for these genes?  Use Toppfun as an example. 
 
-# Task E: Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes.
+# Task E: Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes. (
 
 What is an eQTL?  Please explain in the context of the human organism.
 
 How do I find eQTLs associated with genes using the GTEx project?  Please provide an example using breast tissue on eQTLs that control BRCA1 expression.
+
+# Task F: Construct an hypothesis that the genes caused the disease phenotype by mechanism X.
+
+Design an experiment to test the hypothesis that your PPI genetic subsytem network could lead to non wild-type gene expression.
+
+# Task G. Write a report in a github repository and send it to Feltus.
+
+How do I create a git repository at github?  How do I add a license and make it public?
+
+What are the basics of github markdown language?
+
+Provide a basic overview of the github markdown language.
 
