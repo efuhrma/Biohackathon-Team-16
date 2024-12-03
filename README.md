@@ -9,6 +9,7 @@ Criteria for a successful treatment:
 Options if frontline therapy fails:
 
 Organs involved in expression of cystic fibrosis:
+
 # Task C: Finding a gene underlying cystic fibrosis
 Genes associated with CF:
 
