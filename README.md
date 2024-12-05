@@ -1,19 +1,23 @@
 # Biohackathon-Team-16
 # Task B: Selecting a disease to study - Cystic Fibrosis
-Symptoms:
-- Thick mucus in lungs, shortness of breath, wheezing, fatigue, fat in stool, diarrhea, constipation
-
-Diagnostic criteria: patients must meet the criteria in at least two categories
-- positive newborn screening
-- elevated sweat levels (>/= 60 mmol/L
-- abnormal nasal potiental difference measurements
-- consistent cystic fibrosis clinical symtpoms
-- identification of two disease causing mutations in cystic fibrosis.
-
-Prognostic criteria:
-- genotype: different CFTR mutations affect disease severity
-- age: the later it is, the worse it gets. treatment also becomes less effective.
-
+Symptoms, diagnostic, and prognostic criteria:
+  Symptoms: 
+    - Respiratory: persistent coughing, recurrent lung infections, wheezing or shortness of breathh, and inflamed nasal passages or       sinusitis 
+    - Digestive: greasy and bulky stools, poor weight gain and growth, severe constipation, and intestinal blockage- particulary in newborns
+    - Miscellaneous: very salty skin, chronic fatigue, male infertility, and clubbing of fingers and toes.
+  Diagnostic criteria: patients must meet the criteria in at least two categories
+    - positive newborn screening
+    - elevated sweat levels (>/= 60 mmol/L
+    - abnormal nasal potiental difference measurements
+    - consistent cystic fibrosis clinical symtpoms
+    - identification of two disease causing mutations in cystic fibrosis.
+  Prognostic criteria:
+    - genotype: different CFTR mutations affect disease severity
+    - age: the later it is, the worse it gets. treatment also becomes less effective.
+    - lung function: forced expiratory volume in 1 second (FEV1) is a key predictor of survival. 
+    - nutritional status: better nutrition correlates with improved lung function and survival. 
+    - presence of complications: chronic infections that worsen prognosis.
+    - access to specialized cystic fibrosis care.
 Frontline treatments: 
 - CFTR Modulator Therapies: primary one is Trifakta, it targets the CFTR gene to improve it, however, not all patients with cystic fibrosis have a faulty CFTR gene
 - Airway Clearance Techniques: a multitude of different physical therapies used to breakup mucus in the lungs 
