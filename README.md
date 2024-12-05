@@ -1,15 +1,16 @@
 # Biohackathon-Team-16
 # Task B: Selecting a disease to study - Cystic Fibrosis
-Symptoms, diagnostic, and prognostic criteria:
-  Diagnostic criteria: patients must meet the criteria in at least two categories
-    - positive newborn screening
-    - elevated sweat levels (>/= 60 mmol/L
-    - abnormal nasal potiental difference measurements
-    - consistent cystic fibrosis clinical symtpoms
-    - identification of two disease causing mutations in cystic fibrosis.
-  Prognostic criteria:
-    - genotype: different CFTR mutations affect disease severity
-    - age: the later it is, the worse it gets. treatment also becomes less effective.
+Symptoms:
+- Thick mucus in lungs, shortness of breath, wheezing, fatigue, fat in stool, diarrhea, constipation
+Diagnostic criteria: patients must meet the criteria in at least two categories
+- positive newborn screening
+- elevated sweat levels (>/= 60 mmol/L
+- abnormal nasal potiental difference measurements
+- consistent cystic fibrosis clinical symtpoms
+- identification of two disease causing mutations in cystic fibrosis.
+Prognostic criteria:
+- genotype: different CFTR mutations affect disease severity
+- age: the later it is, the worse it gets. treatment also becomes less effective.
 
 Frontline treatments: 
 - CFTR Modulator Therapies: primary one is Trifakta, it targets the CFTR gene to improve it, however, not all patients with cystic fibrosis have a faulty CFTR gene
