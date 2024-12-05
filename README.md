@@ -20,7 +20,8 @@ Criteria for a successful treatment:
 
 Options if frontline therapy fails:
 
-Organs involved in expression of cystic fibrosis:
+Organs involved in the expression of cystic fibrosis:
+- Epithelial cells are faulty which then affects the lungs and digestive system
 
 # Task C: Finding a gene underlying cystic fibrosis
 Genes associated with CF:
