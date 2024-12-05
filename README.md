@@ -1,12 +1,15 @@
 # Biohackathon-Team-16
 # Task B: Selecting a disease to study - Cystic Fibrosis
 Symptoms, diagnostic, and prognostic criteria:
-  diagnostic criteria: patients must meet the criteria in at least two categories
+  Diagnostic criteria: patients must meet the criteria in at least two categories
     - positive newborn screening
     - elevated sweat levels (>/= 60 mmol/L
     - abnormal nasal potiental difference measurements
     - consistent cystic fibrosis clinical symtpoms
     - identification of two disease causing mutations in cystic fibrosis.
+  Prognostic criteria:
+    - genotype: different CFTR mutations affect disease severity
+    - age: the later it is, the worse it gets. treatment also becomes less effective.
 Frontline treatments:
 
 Criteria for a successful treatment:
