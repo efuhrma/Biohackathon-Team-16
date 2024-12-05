@@ -50,12 +50,17 @@ When are these genes abnormally expressed in CF and in what tissue:
 # Task D: Build a protein:protein interaction (PPI) network using the known gene protein product(s) as seeds.
 
 What is the difference between a protein:protein interaction (PPI) network and a gene co-expression network?
+- PPIs represent physical interactions between proteins and typically are based on experimental evidence. Edges in these networks represent physical contact or functional association between proteins. Gene co-expression networks represent similarities in gene expression patterns, often via microarray or RNA-seq data.
 
 How do I find interacting proteins with a seed protein?  Use the EBI Intact database as an example.  Also note how one can access Intact via Cytoscape.
+- Enter seed proteins in search box and filter as needed in EBI Intact.
+- Within Cytoscape, download “IntAct Cytoscape”
 
 How can I visualize and analyze the PPI network?  For example, how can I determine if the network is scale-free? Use Cytoscape as an example tool.
+- Import PPI data into Cytoscape, and use the “network analyzer” tool
 
-How can I find pathway and disease enrichment for these genes?  Use Toppfun as an example. 
+How can I find pathway and disease enrichment for these genes?  Use Toppfun as an example.
+- Enter genes from PPI network into Toppfun, select pathway and disease to analyze, and set appropriate p-value
 
 # Task E: Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes. (
 
