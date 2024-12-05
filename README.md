@@ -45,9 +45,10 @@ Genes associated with CF:
 - Modifiers: EDRNA, ADIPOR2, IFRD1, MSRA, IL8, MBL2
 
 When are these genes normally expressed in development:
-
+- when cells are fully differentiated into epithelial/endothelial cells
 
 What tissue are these genes expressed in:
+- endothelial cells in the lungs, repsiratory tract, pancreas, digestive tract, reproductive tract, immune cells, brain, skeletal muscle, adipose tissue
 
 When are these genes abnormally expressed in CF and in what tissue:
 - there are multiple types of mutations of the CFTR gene: 
