@@ -12,8 +12,8 @@ Symptoms, diagnostic, and prognostic criteria:
     - age: the later it is, the worse it gets. treatment also becomes less effective.
 
 Frontline treatments: 
--CFTR Modulator Therapies: primary one is Trifakta, it targets the CFTR gene to improve it, however, not all patients with cystic fibrosis have a faulty CFTR gene
--Airway Clearance Techniques: a multitude of different physical therapies used to breakup mucus in the lungs 
+- CFTR Modulator Therapies: primary one is Trifakta, it targets the CFTR gene to improve it, however, not all patients with cystic fibrosis have a faulty CFTR gene
+- Airway Clearance Techniques: a multitude of different physical therapies used to breakup mucus in the lungs 
 -
 
 Criteria for a successful treatment:
