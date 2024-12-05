@@ -25,12 +25,23 @@ Organs involved in the expression of cystic fibrosis:
 
 # Task C: Finding a gene underlying cystic fibrosis
 Genes associated with CF:
+- Primary: CTFR
+- Modifiers: EDRNA, ADIPOR2, IFRD1, MSRA, IL8, MBL2
 
 When are these genes normally expressed in development:
+- 
 
 What tissue are these genes expressed in:
 
 When are these genes abnormally expressed in CF and in what tissue:
+- there are multiple types of mutations of the CFTR gene: 
+    Class I: Protein production mutations
+    Class II: Protein processing mutations (e.g., F508del, the most common CF mutation)
+    Class III: Gating mutations
+    Class IV: Conductance mutations
+    Class V: Insufficient protein mutations
+    Class VI: Stability mutations
+
 
 # Task D: Build a protein:protein interaction (PPI) network using the known gene protein product(s) as seeds.
 
