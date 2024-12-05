@@ -79,8 +79,13 @@ How can I find pathway and disease enrichment for these genes?  Use Toppfun as a
 # Task E: Find tissue-specific eQTLs DNA polymorphisms that could alter the expression of the candidate genes. (
 
 What is an eQTL?  Please explain in the context of the human organism.
+-An eQTL, or expression Quantitative Trait Locus, is a genetic variant that influences the expression level of one or more genes 12. In the context of human genetics, eQTLs play a crucial role in understanding how genetic variations contribute to differences in gene expression among individuals, which can ultimately affect various traits and disease susceptibilities.
+-eQTLs are specific locations in the genome that control the expression levels of mRNA (messenger RNA) for particular genes
+-eQTLs can affect gene expression through various mechanisms, such as altering transcription factor binding sites, modifying chromatin structure, or influencing RNA stability
+-Importance in human genetics: eQTLs help identify functional variants in genome-wide association studies (GWAS) by linking genetic variations to changes in gene expression, they provide insights into the molecular mechanisms underlying complex traits and diseases , eQTLs can help prioritize candidate genes for further functional studies
 
-How do I find eQTLs associated with genes using the GTEx project?  Please provide an example using breast tissue on eQTLs that control BRCA1 expression.
+How do I find eQTLs associated with genes using the GTEx project?  Please provide an example using breast tissue on eQTLs that control BRCA1 expression. 
+There are 1466 significant entries of eQTLs associated with the CFTR gene. CFTR is particularly relevant in epithelial tissues so I looked at the lungs, pancreas, and intestines. There weren't any results for the lungs or the intestines, but there were 14 results for the pancreas. Most of the results were for different parts of the brain, like the caudate nucleus and hippocampus. 
 
 # Task F: Construct an hypothesis that the genes caused the disease phenotype by mechanism X.
 
