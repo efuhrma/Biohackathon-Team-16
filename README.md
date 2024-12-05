@@ -20,8 +20,15 @@ Frontline treatments:
 - Surgery: Nasal and Sinus surgery, bowel surgery, or full lung transplants
 
 Criteria for a successful treatment:
+- Improvements in CFTR function as measured by sweat chloride tests
+- Reduction in the rate of lung function decline
+- Improvements in pancreatic function in some cases
 
 Options if frontline therapy fails:
+- Anti-inflammatory treatments
+- Nutritional support
+- Clinical Trials
+- Lung transplant (extreme)
 
 Organs involved in the expression of cystic fibrosis:
 - Epithelial cells are faulty which then affects the lungs and digestive system
