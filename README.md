@@ -29,12 +29,13 @@ Genes associated with CF:
 - Modifiers: EDRNA, ADIPOR2, IFRD1, MSRA, IL8, MBL2
 
 When are these genes normally expressed in development:
-- 
+
 
 What tissue are these genes expressed in:
 
 When are these genes abnormally expressed in CF and in what tissue:
 - there are multiple types of mutations of the CFTR gene: 
+
     Class I: Protein production mutations
     Class II: Protein processing mutations (e.g., F508del, the most common CF mutation)
     Class III: Gating mutations
