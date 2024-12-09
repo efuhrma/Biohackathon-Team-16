@@ -7,7 +7,7 @@ Symptoms:
 
 Diagnostic criteria: patients must meet the criteria in at least two categories
 - positive newborn screening
-- elevated sweat levels (>/= 60 mmol/L
+- elevated sweat levels (>/= 60 mmol/L)
 - abnormal nasal potiental difference measurements
 - consistent cystic fibrosis clinical symtpoms
 - identification of two disease causing mutations in cystic fibrosis.
