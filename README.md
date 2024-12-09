@@ -85,12 +85,12 @@ What is an eQTL?  Please explain in the context of the human organism.
 -Importance in human genetics: eQTLs help identify functional variants in genome-wide association studies (GWAS) by linking genetic variations to changes in gene expression, they provide insights into the molecular mechanisms underlying complex traits and diseases , eQTLs can help prioritize candidate genes for further functional studies
 
 How do I find eQTLs associated with genes using the GTEx project?  Please provide an example using breast tissue on eQTLs that control BRCA1 expression. 
-There are 1466 significant entries of eQTLs associated with the CFTR gene. CFTR is particularly relevant in epithelial tissues so I looked at the lungs, pancreas, and intestines. There weren't any results for the lungs or the intestines, but there were 14 results for the pancreas. Most of the results were for different parts of the brain, like the caudate nucleus and hippocampus. 
+- There are 1466 significant entries of eQTLs associated with the CFTR gene. CFTR is particularly relevant in epithelial tissues so I looked at the lungs, pancreas, and intestines. There weren't any results for the lungs or the intestines, but there were 14 results for the pancreas. Most of the results were for different parts of the brain, like the caudate nucleus and hippocampus. 
 
 # Task F: Construct an hypothesis that the genes caused the disease phenotype by mechanism X.
 
 Design an experiment to test the hypothesis that your PPI genetic subsytem network could lead to non wild-type gene expression.
-- Hypothesis: Genes like CFTR caused the phenotypes found in cystic fibrosis   
+- Hypothesis: Mutations within the CFTR gene produces faulty proteins which results in phenotypes found in cystic fibrosis. This results in impaired chloride ion transport across epithelial cell membranes in multiple organs. 
 - Experiment:
   1. 
 
