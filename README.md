@@ -93,10 +93,12 @@ Design an experiment to test the hypothesis that your PPI genetic subsytem netwo
 - Hypothesis: Mutations within the CFTR gene produces faulty proteins which results in phenotypes found in cystic fibrosis. This results in impaired chloride ion transport across epithelial cell membranes in multiple organs. 
 - Experiment:
   1. Genetic sequencing of the CFTR gene in patients. Compared patient CFTR gene with normal CFTR gene to identified mutations. 
-  2. Protein analysis of the protein produced by CFTR gene. Dysfunctional proteins are expressed in cell culture systems and its structure characterized through techniques such as X-ray crystallography or cryo-electron microscopy. Dysfunctional proteins are compared with normal proteins.
-  3. 
-  4.
-
+  2. Protein analysis of the protein produced by CFTR gene. Dysfunctional proteins are expressed in cell culture systems and its structure characterized through techniques such as X-ray crystallography or cryo-electron microscopy. Techniques such as in vitro functional assay, patch-clamp technique, and flurorescence indicators are used to assess the chloride channel activity and chloride ion movement of normal and muatated CFTR proteins. Dysfunctional proteins are compared with normal proteins.
+  3. Develop and use oranoid models to studied effects of CFTR on organs. More focus on mucus viscosity and composition comparision between normal and CF patients as it si one of the heavy factors impacted.
+  4. Develop and utilize animal models with CFTR to analyze its phenotypes
+  5. Conduct clincial studies on CF patients to coorelate molecular defects with its phenotype. Direct genotype-phenotype correlation studies in CF patients to link specific CFTR mutations with disease severity and organ involvement. Utilize advanced imaging techniques to visualize airway surface liquid depth and mucus transport in airway cultures from CF patients and controls. Conduct sweat chloride tests on patients to quantify chloride ion transport defects.
+  7. Organize treatments of CFTR to assess their ability in restoring chloride transport. First start on organoid models, then on animal models, then on actual patients.
+  8. Conduct computational simulations to predict how specific mutations affect CFTR protein structure and function.
 # Task G. Write a report in a github repository and send it to Feltus.
 
 How do I create a git repository at github?  How do I add a license and make it public?
