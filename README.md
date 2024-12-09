@@ -1,7 +1,7 @@
 # Biohackathon-Team-16
 # Task B: Selecting a disease to study - Cystic Fibrosis
 Symptoms: 
-- Respiratory: persistent coughing, recurrent lung infections, wheezing or shortness of breathh, and inflamed nasal passages or       sinusitis 
+- Respiratory: persistent coughing, recurrent lung infections, wheezing or shortness of breathh, and inflamed nasal passages or sinusitis 
 - Digestive: greasy and bulky stools, poor weight gain and growth, severe constipation, and intestinal blockage- particulary in newborns
 - Miscellaneous: very salty skin, chronic fatigue, male infertility, and clubbing of fingers and toes.
 
@@ -90,6 +90,9 @@ There are 1466 significant entries of eQTLs associated with the CFTR gene. CFTR 
 # Task F: Construct an hypothesis that the genes caused the disease phenotype by mechanism X.
 
 Design an experiment to test the hypothesis that your PPI genetic subsytem network could lead to non wild-type gene expression.
+- Hypothesis:
+- Experiment:
+  1. 
 
 # Task G. Write a report in a github repository and send it to Feltus.
 
