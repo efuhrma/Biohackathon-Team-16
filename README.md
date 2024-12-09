@@ -92,9 +92,9 @@ How do I find eQTLs associated with genes using the GTEx project?  Please provid
 Design an experiment to test the hypothesis that your PPI genetic subsytem network could lead to non wild-type gene expression.
 - Hypothesis: Mutations within the CFTR gene produces faulty proteins which results in phenotypes found in cystic fibrosis. This results in impaired chloride ion transport across epithelial cell membranes in multiple organs. 
 - Experiment:
-  1.
-  2.
-  3.
+  1. Genetic sequencing of the CFTR gene in patients. Compared patient CFTR gene with normal CFTR gene to identified mutations. 
+  2. Protein analysis of the protein produced by CFTR gene. Dysfunctional proteins are expressed in cell culture systems and its structure characterized through techniques such as X-ray crystallography or cryo-electron microscopy. Dysfunctional proteins are compared with normal proteins.
+  3. 
   4.
 
 # Task G. Write a report in a github repository and send it to Feltus.
