@@ -102,8 +102,8 @@ Design an experiment to test the hypothesis that your PPI genetic subsytem netwo
 # Task G. Write a report in a github repository and send it to Feltus.
 
 How do I create a git repository at github?  How do I add a license and make it public?
+- After signing into to github, select the "+" icon in the top left and name the repository. Select any public license.
 
 What are the basics of github markdown language?
-
-Provide a basic overview of the github markdown language.
+- use a hashtag for headers, asterick for emphasis, dash for lists, etc.
 
